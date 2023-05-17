@@ -1,0 +1,8 @@
+:root { --mavi: #6bc1f1 }
+header { background: url('img/headerbg.jpg') center/cover }
+.bg-mavi { background-color: var(--mavi) }
+.bg-boz { background-color: #f1f1f1 }
+.text-mavi { color: var(--mavi) }
+.vh-50 { min-height: 50vh; }
+.features:hover { opacity: .5;}
+.serviceimgs{ width: 100px; height: 100px;}
